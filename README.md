@@ -74,7 +74,7 @@ public:
 
 **share_ptr test**
 
-  class Base 
+class Base 
 {
 public:
 	virtual ~Base() = default;
